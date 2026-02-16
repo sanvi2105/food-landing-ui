@@ -2,6 +2,9 @@
 🍔 Food Landing UI
 A modern and visually appealing Food Landing Page UI built using HTML, CSS, and JavaScript. This website is perfect for showcasing food delivery services, restaurants, or culinary businesses with an engaging and responsive design.
 
+🎯 Project Goal
+This project was built to practice frontend UI development and create a modern food delivery landing page template.
+
 🌟 Features
 🖼️ Beautiful landing page layout
 
